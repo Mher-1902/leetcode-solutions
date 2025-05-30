@@ -70,6 +70,7 @@ All my solved LeetCode problems
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Mher-1902/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/Mher-1902/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Mher-1902/leetcode-solutions/tree/master/1086-divisor-game) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Mher-1902/leetcode-solutions/tree/master/1362-airplane-seat-assignment-probability) |
@@ -103,6 +104,7 @@ All my solved LeetCode problems
 ## Two Pointers
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Mher-1902/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [2481-strictly-palindromic-number](https://github.com/Mher-1902/leetcode-solutions/tree/master/2481-strictly-palindromic-number) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Mher-1902/leetcode-solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Hash Table
@@ -117,6 +119,7 @@ All my solved LeetCode problems
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Mher-1902/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Mher-1902/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0564-find-the-closest-palindrome](https://github.com/Mher-1902/leetcode-solutions/tree/master/0564-find-the-closest-palindrome) |
 | [0742-to-lower-case](https://github.com/Mher-1902/leetcode-solutions/tree/master/0742-to-lower-case) |
