@@ -6,6 +6,7 @@ All my solved LeetCode problems
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Mher-1902/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Mher-1902/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Mher-1902/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Mher-1902/leetcode-solutions/tree/master/0202-happy-number) |
@@ -234,6 +235,7 @@ All my solved LeetCode problems
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Mher-1902/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Mher-1902/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Mher-1902/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mher-1902/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
