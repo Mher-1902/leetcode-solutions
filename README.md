@@ -56,6 +56,7 @@ All my solved LeetCode problems
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Mher-1902/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Mher-1902/leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Mher-1902/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Mher-1902/leetcode-solutions/tree/master/0118-pascals-triangle) |
@@ -98,6 +99,7 @@ All my solved LeetCode problems
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Mher-1902/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Mher-1902/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Mher-1902/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mher-1902/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -262,6 +264,7 @@ All my solved LeetCode problems
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Mher-1902/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/Mher-1902/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 ## Linked List
 |  |
