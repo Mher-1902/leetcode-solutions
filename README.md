@@ -6,6 +6,7 @@ All my solved LeetCode problems
 ## Math
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/Mher-1902/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Mher-1902/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Mher-1902/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0564-find-the-closest-palindrome](https://github.com/Mher-1902/leetcode-solutions/tree/master/0564-find-the-closest-palindrome) |
@@ -208,6 +209,7 @@ All my solved LeetCode problems
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/Mher-1902/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Mher-1902/leetcode-solutions/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Mher-1902/leetcode-solutions/tree/master/1013-fibonacci-number) |
 ## Memoization
