@@ -57,6 +57,7 @@ All my solved LeetCode problems
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Mher-1902/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Mher-1902/leetcode-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mher-1902/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Mher-1902/leetcode-solutions/tree/master/0027-remove-element) |
@@ -119,6 +120,7 @@ All my solved LeetCode problems
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Mher-1902/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mher-1902/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Mher-1902/leetcode-solutions/tree/master/1388-greatest-sum-divisible-by-three) |
 | [2032-largest-odd-number-in-string](https://github.com/Mher-1902/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
@@ -153,6 +155,7 @@ All my solved LeetCode problems
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Mher-1902/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Mher-1902/leetcode-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mher-1902/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Mher-1902/leetcode-solutions/tree/master/0027-remove-element) |
