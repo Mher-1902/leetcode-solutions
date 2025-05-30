@@ -6,6 +6,7 @@ All my solved LeetCode problems
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Mher-1902/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Mher-1902/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Mher-1902/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Mher-1902/leetcode-solutions/tree/master/0070-climbing-stairs) |
@@ -55,6 +56,7 @@ All my solved LeetCode problems
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Mher-1902/leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Mher-1902/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Mher-1902/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mher-1902/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
