@@ -35,6 +35,7 @@ All my solved LeetCode problems
 ## Array
 |  |
 | ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/Mher-1902/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/Mher-1902/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mher-1902/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/Mher-1902/leetcode-solutions/tree/master/0733-flood-fill) |
@@ -167,4 +168,8 @@ All my solved LeetCode problems
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/Mher-1902/leetcode-solutions/tree/master/0733-flood-fill) |
+## Binary Search
+|  |
+| ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/Mher-1902/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
