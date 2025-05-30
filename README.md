@@ -26,6 +26,7 @@ All my solved LeetCode problems
 ## Array
 |  |
 | ------- |
+| [1293-three-consecutive-odds](https://github.com/Mher-1902/leetcode-solutions/tree/master/1293-three-consecutive-odds) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Mher-1902/leetcode-solutions/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Mher-1902/leetcode-solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Mher-1902/leetcode-solutions/tree/master/1950-sign-of-the-product-of-an-array) |
