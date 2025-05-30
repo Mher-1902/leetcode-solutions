@@ -6,6 +6,7 @@ All my solved LeetCode problems
 ## Math
 |  |
 | ------- |
+| [0564-find-the-closest-palindrome](https://github.com/Mher-1902/leetcode-solutions/tree/master/0564-find-the-closest-palindrome) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mher-1902/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Mher-1902/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Mher-1902/leetcode-solutions/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
@@ -108,6 +109,7 @@ All my solved LeetCode problems
 ## String
 |  |
 | ------- |
+| [0564-find-the-closest-palindrome](https://github.com/Mher-1902/leetcode-solutions/tree/master/0564-find-the-closest-palindrome) |
 | [0742-to-lower-case](https://github.com/Mher-1902/leetcode-solutions/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Mher-1902/leetcode-solutions/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/Mher-1902/leetcode-solutions/tree/master/1205-defanging-an-ip-address) |
