@@ -17,6 +17,7 @@ All my solved LeetCode problems
 |  |
 | ------- |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Mher-1902/leetcode-solutions/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/Mher-1902/leetcode-solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Array
 |  |
 | ------- |
