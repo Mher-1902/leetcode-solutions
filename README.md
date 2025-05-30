@@ -148,6 +148,7 @@ All my solved LeetCode problems
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mher-1902/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Mher-1902/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Mher-1902/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Mher-1902/leetcode-solutions/tree/master/0202-happy-number) |
@@ -175,6 +176,7 @@ All my solved LeetCode problems
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mher-1902/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Mher-1902/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Mher-1902/leetcode-solutions/tree/master/0067-add-binary) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mher-1902/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -275,4 +277,8 @@ All my solved LeetCode problems
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Mher-1902/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mher-1902/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
