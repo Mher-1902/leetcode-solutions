@@ -39,6 +39,7 @@ All my solved LeetCode problems
 ## Array
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Mher-1902/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mher-1902/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Mher-1902/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0463-island-perimeter](https://github.com/Mher-1902/leetcode-solutions/tree/master/0463-island-perimeter) |
@@ -88,6 +89,7 @@ All my solved LeetCode problems
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Mher-1902/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mher-1902/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Mher-1902/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Mher-1902/leetcode-solutions/tree/master/0414-third-maximum-number) |
@@ -108,6 +110,7 @@ All my solved LeetCode problems
 ## Two Pointers
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Mher-1902/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mher-1902/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Mher-1902/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [2481-strictly-palindromic-number](https://github.com/Mher-1902/leetcode-solutions/tree/master/2481-strictly-palindromic-number) |
@@ -115,6 +118,7 @@ All my solved LeetCode problems
 ## Hash Table
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Mher-1902/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mher-1902/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Mher-1902/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0782-jewels-and-stones](https://github.com/Mher-1902/leetcode-solutions/tree/master/0782-jewels-and-stones) |
@@ -194,6 +198,7 @@ All my solved LeetCode problems
 ## Binary Search
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Mher-1902/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mher-1902/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mher-1902/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Recursion
