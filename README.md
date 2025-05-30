@@ -17,6 +17,7 @@ All my solved LeetCode problems
 |  |
 | ------- |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Mher-1902/leetcode-solutions/tree/master/1388-greatest-sum-divisible-by-three) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/Mher-1902/leetcode-solutions/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Mher-1902/leetcode-solutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Mher-1902/leetcode-solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Mher-1902/leetcode-solutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -57,10 +58,12 @@ All my solved LeetCode problems
 ## Hash Table
 |  |
 | ------- |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/Mher-1902/leetcode-solutions/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Mher-1902/leetcode-solutions/tree/master/3206-find-common-elements-between-two-arrays) |
 ## String
 |  |
 | ------- |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/Mher-1902/leetcode-solutions/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2886-faulty-keyboard](https://github.com/Mher-1902/leetcode-solutions/tree/master/2886-faulty-keyboard) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Mher-1902/leetcode-solutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Mher-1902/leetcode-solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -68,5 +71,6 @@ All my solved LeetCode problems
 ## Simulation
 |  |
 | ------- |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/Mher-1902/leetcode-solutions/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2886-faulty-keyboard](https://github.com/Mher-1902/leetcode-solutions/tree/master/2886-faulty-keyboard) |
 <!---LeetCode Topics End-->
