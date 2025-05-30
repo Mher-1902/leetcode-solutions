@@ -56,6 +56,7 @@ All my solved LeetCode problems
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Mher-1902/leetcode-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mher-1902/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Mher-1902/leetcode-solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Mher-1902/leetcode-solutions/tree/master/0035-search-insert-position) |
@@ -125,6 +126,7 @@ All my solved LeetCode problems
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Mher-1902/leetcode-solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Mher-1902/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Mher-1902/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Mher-1902/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -150,6 +152,7 @@ All my solved LeetCode problems
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Mher-1902/leetcode-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mher-1902/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Mher-1902/leetcode-solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mher-1902/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
