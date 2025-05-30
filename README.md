@@ -92,6 +92,7 @@ All my solved LeetCode problems
 ## Hash Table
 |  |
 | ------- |
+| [0782-jewels-and-stones](https://github.com/Mher-1902/leetcode-solutions/tree/master/0782-jewels-and-stones) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Mher-1902/leetcode-solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Mher-1902/leetcode-solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Mher-1902/leetcode-solutions/tree/master/2215-finding-3-digit-even-numbers) |
@@ -100,6 +101,7 @@ All my solved LeetCode problems
 ## String
 |  |
 | ------- |
+| [0782-jewels-and-stones](https://github.com/Mher-1902/leetcode-solutions/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/Mher-1902/leetcode-solutions/tree/master/1205-defanging-an-ip-address) |
 | [1260-day-of-the-year](https://github.com/Mher-1902/leetcode-solutions/tree/master/1260-day-of-the-year) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Mher-1902/leetcode-solutions/tree/master/1920-determine-color-of-a-chessboard-square) |
