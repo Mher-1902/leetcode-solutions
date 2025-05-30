@@ -7,6 +7,7 @@ All my solved LeetCode problems
 |  |
 | ------- |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Mher-1902/leetcode-solutions/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Mher-1902/leetcode-solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1086-divisor-game](https://github.com/Mher-1902/leetcode-solutions/tree/master/1086-divisor-game) |
 | [1260-day-of-the-year](https://github.com/Mher-1902/leetcode-solutions/tree/master/1260-day-of-the-year) |
 | [1289-day-of-the-week](https://github.com/Mher-1902/leetcode-solutions/tree/master/1289-day-of-the-week) |
@@ -31,6 +32,7 @@ All my solved LeetCode problems
 ## Array
 |  |
 | ------- |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Mher-1902/leetcode-solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1293-three-consecutive-odds](https://github.com/Mher-1902/leetcode-solutions/tree/master/1293-three-consecutive-odds) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Mher-1902/leetcode-solutions/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Mher-1902/leetcode-solutions/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -90,6 +92,7 @@ All my solved LeetCode problems
 ## Hash Table
 |  |
 | ------- |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Mher-1902/leetcode-solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Mher-1902/leetcode-solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Mher-1902/leetcode-solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Mher-1902/leetcode-solutions/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -119,6 +122,7 @@ All my solved LeetCode problems
 ## Counting
 |  |
 | ------- |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Mher-1902/leetcode-solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Mher-1902/leetcode-solutions/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 ## Prefix Sum
 |  |
@@ -132,4 +136,8 @@ All my solved LeetCode problems
 |  |
 | ------- |
 | [1362-airplane-seat-assignment-probability](https://github.com/Mher-1902/leetcode-solutions/tree/master/1362-airplane-seat-assignment-probability) |
+## Number Theory
+|  |
+| ------- |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Mher-1902/leetcode-solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 <!---LeetCode Topics End-->
