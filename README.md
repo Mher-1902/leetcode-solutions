@@ -6,6 +6,7 @@ All my solved LeetCode problems
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Mher-1902/leetcode-solutions/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Mher-1902/leetcode-solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Mher-1902/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Mher-1902/leetcode-solutions/tree/master/0342-power-of-four) |
@@ -35,6 +36,7 @@ All my solved LeetCode problems
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Mher-1902/leetcode-solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Mher-1902/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Mher-1902/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/Mher-1902/leetcode-solutions/tree/master/0476-number-complement) |
@@ -43,6 +45,7 @@ All my solved LeetCode problems
 ## Array
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Mher-1902/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Mher-1902/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mher-1902/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Mher-1902/leetcode-solutions/tree/master/0414-third-maximum-number) |
@@ -93,6 +96,7 @@ All my solved LeetCode problems
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Mher-1902/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Mher-1902/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mher-1902/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Mher-1902/leetcode-solutions/tree/master/0389-find-the-difference) |
@@ -125,6 +129,7 @@ All my solved LeetCode problems
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Mher-1902/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Mher-1902/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mher-1902/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Mher-1902/leetcode-solutions/tree/master/0389-find-the-difference) |
@@ -206,6 +211,7 @@ All my solved LeetCode problems
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Mher-1902/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Mher-1902/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mher-1902/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mher-1902/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
