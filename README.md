@@ -8,6 +8,7 @@ All my solved LeetCode problems
 | ------- |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Mher-1902/leetcode-solutions/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1086-divisor-game](https://github.com/Mher-1902/leetcode-solutions/tree/master/1086-divisor-game) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mher-1902/leetcode-solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2630-alternating-digit-sum](https://github.com/Mher-1902/leetcode-solutions/tree/master/2630-alternating-digit-sum) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Mher-1902/leetcode-solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Bit Manipulation
@@ -18,6 +19,7 @@ All my solved LeetCode problems
 |  |
 | ------- |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Mher-1902/leetcode-solutions/tree/master/1388-greatest-sum-divisible-by-three) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mher-1902/leetcode-solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Mher-1902/leetcode-solutions/tree/master/2639-separate-the-digits-in-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Mher-1902/leetcode-solutions/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Mher-1902/leetcode-solutions/tree/master/2847-find-maximum-number-of-string-pairs) |
