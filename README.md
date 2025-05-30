@@ -170,6 +170,7 @@ All my solved LeetCode problems
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/Mher-1902/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Mher-1902/leetcode-solutions/tree/master/0067-add-binary) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mher-1902/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Mher-1902/leetcode-solutions/tree/master/0389-find-the-difference) |
