@@ -6,6 +6,7 @@ All my solved LeetCode problems
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Mher-1902/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Mher-1902/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Mher-1902/leetcode-solutions/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Mher-1902/leetcode-solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
@@ -33,6 +34,7 @@ All my solved LeetCode problems
 ## Array
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Mher-1902/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/Mher-1902/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0777-toeplitz-matrix](https://github.com/Mher-1902/leetcode-solutions/tree/master/0777-toeplitz-matrix) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Mher-1902/leetcode-solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
@@ -74,6 +76,7 @@ All my solved LeetCode problems
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Mher-1902/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Mher-1902/leetcode-solutions/tree/master/1388-greatest-sum-divisible-by-three) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Mher-1902/leetcode-solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Mher-1902/leetcode-solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
