@@ -8,6 +8,7 @@ All my solved LeetCode problems
 | ------- |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Mher-1902/leetcode-solutions/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1086-divisor-game](https://github.com/Mher-1902/leetcode-solutions/tree/master/1086-divisor-game) |
+| [1965-sum-of-digits-in-base-k](https://github.com/Mher-1902/leetcode-solutions/tree/master/1965-sum-of-digits-in-base-k) |
 | [2032-largest-odd-number-in-string](https://github.com/Mher-1902/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Mher-1902/leetcode-solutions/tree/master/2238-a-number-after-a-double-reversal) |
 | [2481-strictly-palindromic-number](https://github.com/Mher-1902/leetcode-solutions/tree/master/2481-strictly-palindromic-number) |
