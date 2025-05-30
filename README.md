@@ -61,7 +61,12 @@ All my solved LeetCode problems
 ## String
 |  |
 | ------- |
+| [2886-faulty-keyboard](https://github.com/Mher-1902/leetcode-solutions/tree/master/2886-faulty-keyboard) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Mher-1902/leetcode-solutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Mher-1902/leetcode-solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/Mher-1902/leetcode-solutions/tree/master/3194-find-words-containing-character) |
+## Simulation
+|  |
+| ------- |
+| [2886-faulty-keyboard](https://github.com/Mher-1902/leetcode-solutions/tree/master/2886-faulty-keyboard) |
 <!---LeetCode Topics End-->
