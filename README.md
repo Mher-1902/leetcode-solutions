@@ -16,6 +16,7 @@ All my solved LeetCode problems
 |  |
 | ------- |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Mher-1902/leetcode-solutions/tree/master/1388-greatest-sum-divisible-by-three) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/Mher-1902/leetcode-solutions/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/Mher-1902/leetcode-solutions/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Mher-1902/leetcode-solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Mher-1902/leetcode-solutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -45,4 +46,8 @@ All my solved LeetCode problems
 |  |
 | ------- |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Mher-1902/leetcode-solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+## Hash Table
+|  |
+| ------- |
+| [3206-find-common-elements-between-two-arrays](https://github.com/Mher-1902/leetcode-solutions/tree/master/3206-find-common-elements-between-two-arrays) |
 <!---LeetCode Topics End-->
