@@ -8,6 +8,7 @@ All my solved LeetCode problems
 | ------- |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Mher-1902/leetcode-solutions/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1086-divisor-game](https://github.com/Mher-1902/leetcode-solutions/tree/master/1086-divisor-game) |
+| [1289-day-of-the-week](https://github.com/Mher-1902/leetcode-solutions/tree/master/1289-day-of-the-week) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Mher-1902/leetcode-solutions/tree/master/1362-airplane-seat-assignment-probability) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Mher-1902/leetcode-solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Mher-1902/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
