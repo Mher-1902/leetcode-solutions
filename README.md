@@ -37,6 +37,7 @@ All my solved LeetCode problems
 ## Array
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/Mher-1902/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0463-island-perimeter](https://github.com/Mher-1902/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mher-1902/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/Mher-1902/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
@@ -83,6 +84,7 @@ All my solved LeetCode problems
 ## Sorting
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/Mher-1902/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mher-1902/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Mher-1902/leetcode-solutions/tree/master/1388-greatest-sum-divisible-by-three) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Mher-1902/leetcode-solutions/tree/master/2215-finding-3-digit-even-numbers) |
