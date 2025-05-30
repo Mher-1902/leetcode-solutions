@@ -32,6 +32,7 @@ All my solved LeetCode problems
 ## Array
 |  |
 | ------- |
+| [0733-flood-fill](https://github.com/Mher-1902/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0777-toeplitz-matrix](https://github.com/Mher-1902/leetcode-solutions/tree/master/0777-toeplitz-matrix) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Mher-1902/leetcode-solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1293-three-consecutive-odds](https://github.com/Mher-1902/leetcode-solutions/tree/master/1293-three-consecutive-odds) |
@@ -146,5 +147,14 @@ All my solved LeetCode problems
 ## Matrix
 |  |
 | ------- |
+| [0733-flood-fill](https://github.com/Mher-1902/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0777-toeplitz-matrix](https://github.com/Mher-1902/leetcode-solutions/tree/master/0777-toeplitz-matrix) |
+## Depth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/Mher-1902/leetcode-solutions/tree/master/0733-flood-fill) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/Mher-1902/leetcode-solutions/tree/master/0733-flood-fill) |
 <!---LeetCode Topics End-->
