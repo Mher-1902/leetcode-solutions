@@ -34,6 +34,7 @@ All my solved LeetCode problems
 ## Array
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/Mher-1902/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mher-1902/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/Mher-1902/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0777-toeplitz-matrix](https://github.com/Mher-1902/leetcode-solutions/tree/master/0777-toeplitz-matrix) |
@@ -123,6 +124,7 @@ All my solved LeetCode problems
 ## Simulation
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/Mher-1902/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [2048-build-array-from-permutation](https://github.com/Mher-1902/leetcode-solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Mher-1902/leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Mher-1902/leetcode-solutions/tree/master/2639-separate-the-digits-in-an-array) |
@@ -152,6 +154,7 @@ All my solved LeetCode problems
 ## Matrix
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/Mher-1902/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/Mher-1902/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0777-toeplitz-matrix](https://github.com/Mher-1902/leetcode-solutions/tree/master/0777-toeplitz-matrix) |
 ## Depth-First Search
