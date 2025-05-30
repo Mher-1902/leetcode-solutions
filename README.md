@@ -263,6 +263,7 @@ All my solved LeetCode problems
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Mher-1902/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/Mher-1902/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Mher-1902/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Mher-1902/leetcode-solutions/tree/master/0342-power-of-four) |
@@ -280,6 +281,7 @@ All my solved LeetCode problems
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Mher-1902/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Mher-1902/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## String Matching
 |  |
