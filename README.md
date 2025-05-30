@@ -104,6 +104,7 @@ All my solved LeetCode problems
 ## String
 |  |
 | ------- |
+| [0742-to-lower-case](https://github.com/Mher-1902/leetcode-solutions/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Mher-1902/leetcode-solutions/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/Mher-1902/leetcode-solutions/tree/master/1205-defanging-an-ip-address) |
 | [1260-day-of-the-year](https://github.com/Mher-1902/leetcode-solutions/tree/master/1260-day-of-the-year) |
