@@ -56,6 +56,7 @@ All my solved LeetCode problems
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Mher-1902/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/Mher-1902/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Mher-1902/leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Mher-1902/leetcode-solutions/tree/master/0075-sort-colors) |
@@ -158,6 +159,7 @@ All my solved LeetCode problems
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Mher-1902/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0202-happy-number](https://github.com/Mher-1902/leetcode-solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Mher-1902/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Mher-1902/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -227,6 +229,7 @@ All my solved LeetCode problems
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Mher-1902/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0463-island-perimeter](https://github.com/Mher-1902/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/Mher-1902/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/Mher-1902/leetcode-solutions/tree/master/0733-flood-fill) |
