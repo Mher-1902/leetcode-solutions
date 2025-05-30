@@ -51,6 +51,7 @@ All my solved LeetCode problems
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Mher-1902/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Mher-1902/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mher-1902/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mher-1902/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -111,6 +112,7 @@ All my solved LeetCode problems
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Mher-1902/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Mher-1902/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Mher-1902/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mher-1902/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -135,6 +137,7 @@ All my solved LeetCode problems
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Mher-1902/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Mher-1902/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Mher-1902/leetcode-solutions/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mher-1902/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
