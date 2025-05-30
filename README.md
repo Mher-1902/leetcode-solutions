@@ -6,6 +6,7 @@ All my solved LeetCode problems
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Mher-1902/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Mher-1902/leetcode-solutions/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Mher-1902/leetcode-solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Mher-1902/leetcode-solutions/tree/master/0326-power-of-three) |
@@ -36,6 +37,7 @@ All my solved LeetCode problems
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Mher-1902/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Mher-1902/leetcode-solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Mher-1902/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Mher-1902/leetcode-solutions/tree/master/0389-find-the-difference) |
@@ -218,6 +220,7 @@ All my solved LeetCode problems
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Mher-1902/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Mher-1902/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Mher-1902/leetcode-solutions/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Mher-1902/leetcode-solutions/tree/master/1013-fibonacci-number) |
