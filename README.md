@@ -8,6 +8,7 @@ All my solved LeetCode problems
 | ------- |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Mher-1902/leetcode-solutions/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1086-divisor-game](https://github.com/Mher-1902/leetcode-solutions/tree/master/1086-divisor-game) |
+| [1260-day-of-the-year](https://github.com/Mher-1902/leetcode-solutions/tree/master/1260-day-of-the-year) |
 | [1289-day-of-the-week](https://github.com/Mher-1902/leetcode-solutions/tree/master/1289-day-of-the-week) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Mher-1902/leetcode-solutions/tree/master/1362-airplane-seat-assignment-probability) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Mher-1902/leetcode-solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -96,6 +97,7 @@ All my solved LeetCode problems
 ## String
 |  |
 | ------- |
+| [1260-day-of-the-year](https://github.com/Mher-1902/leetcode-solutions/tree/master/1260-day-of-the-year) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Mher-1902/leetcode-solutions/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2032-largest-odd-number-in-string](https://github.com/Mher-1902/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Mher-1902/leetcode-solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
