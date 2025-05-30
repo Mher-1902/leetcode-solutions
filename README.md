@@ -6,6 +6,7 @@ All my solved LeetCode problems
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Mher-1902/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Mher-1902/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Mher-1902/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Mher-1902/leetcode-solutions/tree/master/0069-sqrtx) |
@@ -168,6 +169,7 @@ All my solved LeetCode problems
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Mher-1902/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Mher-1902/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0202-happy-number](https://github.com/Mher-1902/leetcode-solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Mher-1902/leetcode-solutions/tree/master/0268-missing-number) |
@@ -183,6 +185,7 @@ All my solved LeetCode problems
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Mher-1902/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mher-1902/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Mher-1902/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Mher-1902/leetcode-solutions/tree/master/0067-add-binary) |
