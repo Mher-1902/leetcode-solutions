@@ -24,6 +24,7 @@ All my solved LeetCode problems
 | ------- |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Mher-1902/leetcode-solutions/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Mher-1902/leetcode-solutions/tree/master/1392-find-the-difference-of-two-arrays) |
+| [2048-build-array-from-permutation](https://github.com/Mher-1902/leetcode-solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Mher-1902/leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Mher-1902/leetcode-solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Mher-1902/leetcode-solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -91,6 +92,7 @@ All my solved LeetCode problems
 ## Simulation
 |  |
 | ------- |
+| [2048-build-array-from-permutation](https://github.com/Mher-1902/leetcode-solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Mher-1902/leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Mher-1902/leetcode-solutions/tree/master/2639-separate-the-digits-in-an-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Mher-1902/leetcode-solutions/tree/master/2847-find-maximum-number-of-string-pairs) |
