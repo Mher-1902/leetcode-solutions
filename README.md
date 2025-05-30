@@ -51,6 +51,7 @@ All my solved LeetCode problems
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Mher-1902/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mher-1902/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mher-1902/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/Mher-1902/leetcode-solutions/tree/master/0136-single-number) |
@@ -90,6 +91,7 @@ All my solved LeetCode problems
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Mher-1902/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mher-1902/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mher-1902/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Mher-1902/leetcode-solutions/tree/master/0392-is-subsequence) |
