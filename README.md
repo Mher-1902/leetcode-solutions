@@ -6,6 +6,7 @@ All my solved LeetCode problems
 ## Math
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/Mher-1902/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Mher-1902/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0564-find-the-closest-palindrome](https://github.com/Mher-1902/leetcode-solutions/tree/master/0564-find-the-closest-palindrome) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mher-1902/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -32,6 +33,7 @@ All my solved LeetCode problems
 ## Bit Manipulation
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/Mher-1902/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Mher-1902/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/Mher-1902/leetcode-solutions/tree/master/0476-number-complement) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Mher-1902/leetcode-solutions/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
@@ -206,6 +208,7 @@ All my solved LeetCode problems
 ## Recursion
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/Mher-1902/leetcode-solutions/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Mher-1902/leetcode-solutions/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
