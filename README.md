@@ -6,6 +6,7 @@ All my solved LeetCode problems
 ## Math
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Mher-1902/leetcode-solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Mher-1902/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Mher-1902/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Mher-1902/leetcode-solutions/tree/master/0412-fizz-buzz) |
@@ -103,12 +104,14 @@ All my solved LeetCode problems
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Mher-1902/leetcode-solutions/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/Mher-1902/leetcode-solutions/tree/master/1086-divisor-game) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Mher-1902/leetcode-solutions/tree/master/1362-airplane-seat-assignment-probability) |
 | [2481-strictly-palindromic-number](https://github.com/Mher-1902/leetcode-solutions/tree/master/2481-strictly-palindromic-number) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Mher-1902/leetcode-solutions/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/Mher-1902/leetcode-solutions/tree/master/1086-divisor-game) |
 ## Two Pointers
 |  |
