@@ -56,6 +56,7 @@ All my solved LeetCode problems
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Mher-1902/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Mher-1902/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/Mher-1902/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Mher-1902/leetcode-solutions/tree/master/0066-plus-one) |
@@ -247,6 +248,7 @@ All my solved LeetCode problems
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Mher-1902/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Mher-1902/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Mher-1902/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Mher-1902/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
