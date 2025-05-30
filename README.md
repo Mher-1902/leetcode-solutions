@@ -32,6 +32,7 @@ All my solved LeetCode problems
 ## Bit Manipulation
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Mher-1902/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/Mher-1902/leetcode-solutions/tree/master/0476-number-complement) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Mher-1902/leetcode-solutions/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Mher-1902/leetcode-solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -86,6 +87,7 @@ All my solved LeetCode problems
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Mher-1902/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Mher-1902/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mher-1902/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Mher-1902/leetcode-solutions/tree/master/1388-greatest-sum-divisible-by-three) |
@@ -110,6 +112,7 @@ All my solved LeetCode problems
 ## Hash Table
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Mher-1902/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0782-jewels-and-stones](https://github.com/Mher-1902/leetcode-solutions/tree/master/0782-jewels-and-stones) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Mher-1902/leetcode-solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Mher-1902/leetcode-solutions/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -119,6 +122,7 @@ All my solved LeetCode problems
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Mher-1902/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Mher-1902/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Mher-1902/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0564-find-the-closest-palindrome](https://github.com/Mher-1902/leetcode-solutions/tree/master/0564-find-the-closest-palindrome) |
