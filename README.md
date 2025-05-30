@@ -8,6 +8,7 @@ All my solved LeetCode problems
 | ------- |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Mher-1902/leetcode-solutions/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1086-divisor-game](https://github.com/Mher-1902/leetcode-solutions/tree/master/1086-divisor-game) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Mher-1902/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Mher-1902/leetcode-solutions/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Mher-1902/leetcode-solutions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1965-sum-of-digits-in-base-k](https://github.com/Mher-1902/leetcode-solutions/tree/master/1965-sum-of-digits-in-base-k) |
@@ -29,6 +30,7 @@ All my solved LeetCode problems
 | [1293-three-consecutive-odds](https://github.com/Mher-1902/leetcode-solutions/tree/master/1293-three-consecutive-odds) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Mher-1902/leetcode-solutions/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Mher-1902/leetcode-solutions/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Mher-1902/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Mher-1902/leetcode-solutions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2048-build-array-from-permutation](https://github.com/Mher-1902/leetcode-solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Mher-1902/leetcode-solutions/tree/master/2058-concatenation-of-array) |
