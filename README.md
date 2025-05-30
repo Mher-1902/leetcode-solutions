@@ -59,6 +59,7 @@ All my solved LeetCode problems
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Mher-1902/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Mher-1902/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Mher-1902/leetcode-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mher-1902/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -265,6 +266,7 @@ All my solved LeetCode problems
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Mher-1902/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Mher-1902/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Mher-1902/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Mher-1902/leetcode-solutions/tree/master/0268-missing-number) |
@@ -287,6 +289,7 @@ All my solved LeetCode problems
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Mher-1902/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Mher-1902/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/Mher-1902/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 ## Linked List
