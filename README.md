@@ -43,6 +43,7 @@ All my solved LeetCode problems
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mher-1902/leetcode-solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2630-alternating-digit-sum](https://github.com/Mher-1902/leetcode-solutions/tree/master/2630-alternating-digit-sum) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Mher-1902/leetcode-solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3201-distribute-candies-among-children-ii](https://github.com/Mher-1902/leetcode-solutions/tree/master/3201-distribute-candies-among-children-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -239,6 +240,7 @@ All my solved LeetCode problems
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/Mher-1902/leetcode-solutions/tree/master/2215-finding-3-digit-even-numbers) |
+| [3201-distribute-candies-among-children-ii](https://github.com/Mher-1902/leetcode-solutions/tree/master/3201-distribute-candies-among-children-ii) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -303,4 +305,8 @@ All my solved LeetCode problems
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mher-1902/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Combinatorics
+|  |
+| ------- |
+| [3201-distribute-candies-among-children-ii](https://github.com/Mher-1902/leetcode-solutions/tree/master/3201-distribute-candies-among-children-ii) |
 <!---LeetCode Topics End-->
