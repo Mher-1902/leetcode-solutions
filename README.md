@@ -74,6 +74,7 @@ All my solved LeetCode problems
 | [0118-pascals-triangle](https://github.com/Mher-1902/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mher-1902/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mher-1902/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/Mher-1902/leetcode-solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Mher-1902/leetcode-solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Mher-1902/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Mher-1902/leetcode-solutions/tree/master/0268-missing-number) |
@@ -127,6 +128,7 @@ All my solved LeetCode problems
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mher-1902/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mher-1902/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/Mher-1902/leetcode-solutions/tree/master/0135-candy) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Mher-1902/leetcode-solutions/tree/master/1388-greatest-sum-divisible-by-three) |
 | [2032-largest-odd-number-in-string](https://github.com/Mher-1902/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Mher-1902/leetcode-solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
