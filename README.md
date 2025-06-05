@@ -212,6 +212,7 @@ All my solved LeetCode problems
 | [0564-find-the-closest-palindrome](https://github.com/Mher-1902/leetcode-solutions/tree/master/0564-find-the-closest-palindrome) |
 | [0742-to-lower-case](https://github.com/Mher-1902/leetcode-solutions/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Mher-1902/leetcode-solutions/tree/master/0782-jewels-and-stones) |
+| [0812-rotate-string](https://github.com/Mher-1902/leetcode-solutions/tree/master/0812-rotate-string) |
 | [1205-defanging-an-ip-address](https://github.com/Mher-1902/leetcode-solutions/tree/master/1205-defanging-an-ip-address) |
 | [1260-day-of-the-year](https://github.com/Mher-1902/leetcode-solutions/tree/master/1260-day-of-the-year) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Mher-1902/leetcode-solutions/tree/master/1920-determine-color-of-a-chessboard-square) |
@@ -312,6 +313,7 @@ All my solved LeetCode problems
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mher-1902/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0812-rotate-string](https://github.com/Mher-1902/leetcode-solutions/tree/master/0812-rotate-string) |
 ## Combinatorics
 |  |
 | ------- |
