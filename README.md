@@ -205,6 +205,7 @@ All my solved LeetCode problems
 | [2215-finding-3-digit-even-numbers](https://github.com/Mher-1902/leetcode-solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Mher-1902/leetcode-solutions/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Mher-1902/leetcode-solutions/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Mher-1902/leetcode-solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String
 |  |
 | ------- |
@@ -231,6 +232,7 @@ All my solved LeetCode problems
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Mher-1902/leetcode-solutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Mher-1902/leetcode-solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/Mher-1902/leetcode-solutions/tree/master/3194-find-words-containing-character) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Mher-1902/leetcode-solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Simulation
 |  |
 | ------- |
@@ -247,6 +249,7 @@ All my solved LeetCode problems
 | ------- |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Mher-1902/leetcode-solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Mher-1902/leetcode-solutions/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Mher-1902/leetcode-solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Prefix Sum
 |  |
 | ------- |
