@@ -117,6 +117,7 @@ All my solved LeetCode problems
 | [3397-find-the-integer-added-to-array-i](https://github.com/Mher-1902/leetcode-solutions/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Mher-1902/leetcode-solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Mher-1902/leetcode-solutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Mher-1902/leetcode-solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Dynamic Programming
 |  |
 | ------- |
