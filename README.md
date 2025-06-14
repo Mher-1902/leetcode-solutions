@@ -46,6 +46,7 @@ All my solved LeetCode problems
 | [2571-find-the-pivot-integer](https://github.com/Mher-1902/leetcode-solutions/tree/master/2571-find-the-pivot-integer) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mher-1902/leetcode-solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2630-alternating-digit-sum](https://github.com/Mher-1902/leetcode-solutions/tree/master/2630-alternating-digit-sum) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Mher-1902/leetcode-solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Mher-1902/leetcode-solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Mher-1902/leetcode-solutions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3321-type-of-triangle](https://github.com/Mher-1902/leetcode-solutions/tree/master/3321-type-of-triangle) |
@@ -143,6 +144,7 @@ All my solved LeetCode problems
 | [0135-candy](https://github.com/Mher-1902/leetcode-solutions/tree/master/0135-candy) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Mher-1902/leetcode-solutions/tree/master/1388-greatest-sum-divisible-by-three) |
 | [2032-largest-odd-number-in-string](https://github.com/Mher-1902/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Mher-1902/leetcode-solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Mher-1902/leetcode-solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Mher-1902/leetcode-solutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Sorting
