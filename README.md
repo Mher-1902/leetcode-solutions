@@ -117,6 +117,7 @@ All my solved LeetCode problems
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Mher-1902/leetcode-solutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3194-find-words-containing-character](https://github.com/Mher-1902/leetcode-solutions/tree/master/3194-find-words-containing-character) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Mher-1902/leetcode-solutions/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Mher-1902/leetcode-solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/Mher-1902/leetcode-solutions/tree/master/3321-type-of-triangle) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/Mher-1902/leetcode-solutions/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Mher-1902/leetcode-solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -149,6 +150,7 @@ All my solved LeetCode problems
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Mher-1902/leetcode-solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Mher-1902/leetcode-solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Mher-1902/leetcode-solutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Mher-1902/leetcode-solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Sorting
 |  |
 | ------- |
@@ -164,6 +166,7 @@ All my solved LeetCode problems
 | [1019-squares-of-a-sorted-array](https://github.com/Mher-1902/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Mher-1902/leetcode-solutions/tree/master/1388-greatest-sum-divisible-by-three) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Mher-1902/leetcode-solutions/tree/master/2215-finding-3-digit-even-numbers) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Mher-1902/leetcode-solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/Mher-1902/leetcode-solutions/tree/master/3321-type-of-triangle) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Mher-1902/leetcode-solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Brainteaser
