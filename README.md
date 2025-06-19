@@ -108,6 +108,7 @@ All my solved LeetCode problems
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Mher-1902/leetcode-solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Mher-1902/leetcode-solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Mher-1902/leetcode-solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Mher-1902/leetcode-solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mher-1902/leetcode-solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Mher-1902/leetcode-solutions/tree/master/2639-separate-the-digits-in-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Mher-1902/leetcode-solutions/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -147,6 +148,7 @@ All my solved LeetCode problems
 | [0135-candy](https://github.com/Mher-1902/leetcode-solutions/tree/master/0135-candy) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Mher-1902/leetcode-solutions/tree/master/1388-greatest-sum-divisible-by-three) |
 | [2032-largest-odd-number-in-string](https://github.com/Mher-1902/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Mher-1902/leetcode-solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Mher-1902/leetcode-solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Mher-1902/leetcode-solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Mher-1902/leetcode-solutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -166,6 +168,7 @@ All my solved LeetCode problems
 | [1019-squares-of-a-sorted-array](https://github.com/Mher-1902/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Mher-1902/leetcode-solutions/tree/master/1388-greatest-sum-divisible-by-three) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Mher-1902/leetcode-solutions/tree/master/2215-finding-3-digit-even-numbers) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Mher-1902/leetcode-solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Mher-1902/leetcode-solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/Mher-1902/leetcode-solutions/tree/master/3321-type-of-triangle) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Mher-1902/leetcode-solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
