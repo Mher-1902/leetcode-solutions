@@ -9,6 +9,7 @@ All my solved LeetCode problems
 | [0007-reverse-integer](https://github.com/Mher-1902/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Mher-1902/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Mher-1902/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/Mher-1902/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Mher-1902/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Mher-1902/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Mher-1902/leetcode-solutions/tree/master/0069-sqrtx) |
@@ -129,6 +130,7 @@ All my solved LeetCode problems
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Mher-1902/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Mher-1902/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Mher-1902/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Mher-1902/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mher-1902/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -346,6 +348,7 @@ All my solved LeetCode problems
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Mher-1902/leetcode-solutions/tree/master/0062-unique-paths) |
 | [3199-distribute-candies-among-children-i](https://github.com/Mher-1902/leetcode-solutions/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Mher-1902/leetcode-solutions/tree/master/3201-distribute-candies-among-children-ii) |
 ## Heap (Priority Queue)
