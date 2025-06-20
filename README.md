@@ -48,6 +48,7 @@ All my solved LeetCode problems
 | [2630-alternating-digit-sum](https://github.com/Mher-1902/leetcode-solutions/tree/master/2630-alternating-digit-sum) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Mher-1902/leetcode-solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Mher-1902/leetcode-solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3199-distribute-candies-among-children-i](https://github.com/Mher-1902/leetcode-solutions/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Mher-1902/leetcode-solutions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3321-type-of-triangle](https://github.com/Mher-1902/leetcode-solutions/tree/master/3321-type-of-triangle) |
 ## Bit Manipulation
@@ -273,6 +274,7 @@ All my solved LeetCode problems
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/Mher-1902/leetcode-solutions/tree/master/2215-finding-3-digit-even-numbers) |
+| [3199-distribute-candies-among-children-i](https://github.com/Mher-1902/leetcode-solutions/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Mher-1902/leetcode-solutions/tree/master/3201-distribute-candies-among-children-ii) |
 ## Probability and Statistics
 |  |
@@ -344,6 +346,7 @@ All my solved LeetCode problems
 ## Combinatorics
 |  |
 | ------- |
+| [3199-distribute-candies-among-children-i](https://github.com/Mher-1902/leetcode-solutions/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Mher-1902/leetcode-solutions/tree/master/3201-distribute-candies-among-children-ii) |
 ## Heap (Priority Queue)
 |  |
