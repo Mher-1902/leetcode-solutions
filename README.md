@@ -247,6 +247,7 @@ All my solved LeetCode problems
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Mher-1902/leetcode-solutions/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2032-largest-odd-number-in-string](https://github.com/Mher-1902/leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Mher-1902/leetcode-solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Mher-1902/leetcode-solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Mher-1902/leetcode-solutions/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Mher-1902/leetcode-solutions/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2886-faulty-keyboard](https://github.com/Mher-1902/leetcode-solutions/tree/master/2886-faulty-keyboard) |
@@ -263,6 +264,7 @@ All my solved LeetCode problems
 | [0566-reshape-the-matrix](https://github.com/Mher-1902/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [2048-build-array-from-permutation](https://github.com/Mher-1902/leetcode-solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Mher-1902/leetcode-solutions/tree/master/2058-concatenation-of-array) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Mher-1902/leetcode-solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Mher-1902/leetcode-solutions/tree/master/2639-separate-the-digits-in-an-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Mher-1902/leetcode-solutions/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2886-faulty-keyboard](https://github.com/Mher-1902/leetcode-solutions/tree/master/2886-faulty-keyboard) |
