@@ -110,6 +110,7 @@ All my solved LeetCode problems
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Mher-1902/leetcode-solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Mher-1902/leetcode-solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Mher-1902/leetcode-solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Mher-1902/leetcode-solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Mher-1902/leetcode-solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mher-1902/leetcode-solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Mher-1902/leetcode-solutions/tree/master/2639-separate-the-digits-in-an-array) |
@@ -206,6 +207,7 @@ All my solved LeetCode problems
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mher-1902/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Mher-1902/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [1019-squares-of-a-sorted-array](https://github.com/Mher-1902/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Mher-1902/leetcode-solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2481-strictly-palindromic-number](https://github.com/Mher-1902/leetcode-solutions/tree/master/2481-strictly-palindromic-number) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Mher-1902/leetcode-solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Hash Table
