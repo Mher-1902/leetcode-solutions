@@ -84,6 +84,7 @@ All my solved LeetCode problems
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mher-1902/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/Mher-1902/leetcode-solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Mher-1902/leetcode-solutions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Mher-1902/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Mher-1902/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Mher-1902/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Mher-1902/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -163,6 +164,7 @@ All my solved LeetCode problems
 | ------- |
 | [0015-3sum](https://github.com/Mher-1902/leetcode-solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Mher-1902/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Mher-1902/leetcode-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Mher-1902/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Mher-1902/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mher-1902/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -216,6 +218,7 @@ All my solved LeetCode problems
 | [0001-two-sum](https://github.com/Mher-1902/leetcode-solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Mher-1902/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Mher-1902/leetcode-solutions/tree/master/0036-valid-sudoku) |
+| [0169-majority-element](https://github.com/Mher-1902/leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Mher-1902/leetcode-solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Mher-1902/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Mher-1902/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -273,6 +276,7 @@ All my solved LeetCode problems
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Mher-1902/leetcode-solutions/tree/master/0169-majority-element) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Mher-1902/leetcode-solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Mher-1902/leetcode-solutions/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Mher-1902/leetcode-solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -342,6 +346,7 @@ All my solved LeetCode problems
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mher-1902/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Mher-1902/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Mher-1902/leetcode-solutions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Mher-1902/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0948-sort-an-array](https://github.com/Mher-1902/leetcode-solutions/tree/master/0948-sort-an-array) |
 ## Linked List
