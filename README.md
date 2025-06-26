@@ -38,6 +38,7 @@ All my solved LeetCode problems
 | [1362-airplane-seat-assignment-probability](https://github.com/Mher-1902/leetcode-solutions/tree/master/1362-airplane-seat-assignment-probability) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Mher-1902/leetcode-solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Mher-1902/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/Mher-1902/leetcode-solutions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Mher-1902/leetcode-solutions/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Mher-1902/leetcode-solutions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1965-sum-of-digits-in-base-k](https://github.com/Mher-1902/leetcode-solutions/tree/master/1965-sum-of-digits-in-base-k) |
