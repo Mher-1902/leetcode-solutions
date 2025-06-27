@@ -28,6 +28,7 @@ All my solved LeetCode problems
 | [0628-maximum-product-of-three-numbers](https://github.com/Mher-1902/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Mher-1902/leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Mher-1902/leetcode-solutions/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [0830-largest-triangle-area](https://github.com/Mher-1902/leetcode-solutions/tree/master/0830-largest-triangle-area) |
 | [0909-stone-game](https://github.com/Mher-1902/leetcode-solutions/tree/master/0909-stone-game) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Mher-1902/leetcode-solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1013-fibonacci-number](https://github.com/Mher-1902/leetcode-solutions/tree/master/1013-fibonacci-number) |
@@ -97,6 +98,7 @@ All my solved LeetCode problems
 | [0628-maximum-product-of-three-numbers](https://github.com/Mher-1902/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/Mher-1902/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0777-toeplitz-matrix](https://github.com/Mher-1902/leetcode-solutions/tree/master/0777-toeplitz-matrix) |
+| [0830-largest-triangle-area](https://github.com/Mher-1902/leetcode-solutions/tree/master/0830-largest-triangle-area) |
 | [0909-stone-game](https://github.com/Mher-1902/leetcode-solutions/tree/master/0909-stone-game) |
 | [0948-sort-an-array](https://github.com/Mher-1902/leetcode-solutions/tree/master/0948-sort-an-array) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Mher-1902/leetcode-solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
@@ -386,4 +388,8 @@ All my solved LeetCode problems
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Mher-1902/leetcode-solutions/tree/master/0948-sort-an-array) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/Mher-1902/leetcode-solutions/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
