@@ -407,4 +407,8 @@ All my solved LeetCode problems
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Mher-1902/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Mher-1902/leetcode-solutions/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
