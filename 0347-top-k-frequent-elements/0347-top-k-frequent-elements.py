@@ -7,10 +7,8 @@ class Solution:
                 di[i] += 1
             else:
                 di[i] = 1
-        mx = 0
         for key,val in di.items():
-            if val > mx:
-                ls.append(val)
+            ls.append(val)
         ls.sort(reverse=True)
         trg = ls[:k]
         res = [k for k,v in di.items() if v in trg]
