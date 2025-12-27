@@ -31,6 +31,7 @@ All my solved LeetCode problems
 | [0830-largest-triangle-area](https://github.com/Mher-1902/leetcode-solutions/tree/master/0830-largest-triangle-area) |
 | [0909-stone-game](https://github.com/Mher-1902/leetcode-solutions/tree/master/0909-stone-game) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Mher-1902/leetcode-solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [0989-add-to-array-form-of-integer](https://github.com/Mher-1902/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1013-fibonacci-number](https://github.com/Mher-1902/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/Mher-1902/leetcode-solutions/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/Mher-1902/leetcode-solutions/tree/master/1236-n-th-tribonacci-number) |
@@ -105,6 +106,7 @@ All my solved LeetCode problems
 | [0909-stone-game](https://github.com/Mher-1902/leetcode-solutions/tree/master/0909-stone-game) |
 | [0948-sort-an-array](https://github.com/Mher-1902/leetcode-solutions/tree/master/0948-sort-an-array) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Mher-1902/leetcode-solutions/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [0989-add-to-array-form-of-integer](https://github.com/Mher-1902/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1019-squares-of-a-sorted-array](https://github.com/Mher-1902/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/Mher-1902/leetcode-solutions/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/Mher-1902/leetcode-solutions/tree/master/1293-three-consecutive-odds) |
