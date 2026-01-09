@@ -55,6 +55,7 @@ All my solved LeetCode problems
 | [3199-distribute-candies-among-children-i](https://github.com/Mher-1902/leetcode-solutions/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Mher-1902/leetcode-solutions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3321-type-of-triangle](https://github.com/Mher-1902/leetcode-solutions/tree/master/3321-type-of-triangle) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Mher-1902/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
